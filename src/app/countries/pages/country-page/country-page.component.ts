@@ -45,8 +45,4 @@ export class CountryPageComponent implements OnInit {
 
        });
   }
-  test(){
-    console.log("hola");
-
-  }
 }
